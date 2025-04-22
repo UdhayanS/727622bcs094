@@ -1,8 +1,8 @@
 # Social Media Analytics
 ## Top 5 users based upon userid
 
-![image](https://github.com/user-attachments/assets/0f9d825e-eaaf-4157-8a3a-92f5fa91aeca)
+![Screenshot 2025-04-22 130405](https://github.com/user-attachments/assets/6f6453ae-9b9a-40a6-a07e-97352e8f6fbe)
 
 ## Popular post Analysis
-![image](https://github.com/user-attachments/assets/b29e79eb-515a-4bea-8663-dfdd71bdc5fe)
+![Screenshot 2025-04-22 130818](https://github.com/user-attachments/assets/2ecd4df2-6987-47b3-8c36-80a6e5a476aa)
 
